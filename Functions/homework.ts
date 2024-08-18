@@ -13,7 +13,6 @@ console.log(calculateAverage(2,5,6,4,8))
 const findMaxValue = (...a:number[]):number=>{
     const maxValue = Math.max(...a);
     return maxValue;
-
 }
 console.log(findMaxValue(10,20,56,54,60,89))
 

@@ -13,3 +13,4 @@ const findMaxValue = (...a) => {
     return maxValue;
 };
 console.log(findMaxValue(10, 20, 56, 54, 60, 89));
+// 
